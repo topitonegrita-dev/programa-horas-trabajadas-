@@ -1,5 +1,7 @@
 #---------------------------------------------
 # Problema 5
+# Oscar fernando Monsalve 
+# autor programa 
 # Control de horas trabajadas por recursos
 #---------------------------------------------
 
@@ -14,7 +16,7 @@ recursos = [
 ]
 
 
-# Función
+
 def calcular_horas(fila):
     """
     Calcula el total de horas semanales y
@@ -30,7 +32,7 @@ def calcular_horas(fila):
     return total, clasificacion
 
 
-# Programa principal
+
 print("=" * 55)
 print("CONTROL DE HORAS TRABAJADAS")
 print("=" * 55)
