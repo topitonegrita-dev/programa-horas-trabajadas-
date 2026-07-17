@@ -1,6 +1,7 @@
 #---------------------------------------------
 # Problema 5
 # Oscar fernando Monsalve 
+# Fundamentos de programacion 
 # autor programa 
 # Control de horas trabajadas por recursos
 #---------------------------------------------
